@@ -13,7 +13,7 @@
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FujiAr.FujiAr)
-[![Github](https://img.shields.io/github/followers/FujiAr?label=Follow&style=social)](https://github.com/fujianggara10x)
+[![Github](https://img.shields.io/github/followers/FujiAr?label=Follow&style=social)](https://github.com/fujianggara10)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fujiar_10_?style=social)](https://x.com/Fujiar_10)
 ![GitHub stars](https://img.shields.io/github/stars/FujiAr?style=social)
 
@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/fujiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://x.com/fujiar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/fujiar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://warpcast.com/fujiar" target="blank"><img align="center" src="https://cryptologos.cc/logos/farcaster-logo.svg?v=029" height="30" width="40" /></a>
+<a href="https://warpcast.com/fujiar" target="blank"><img align="center" src="https://docs.farcaster.xyz/og-image.png?v=029" height="30" width="40" /></a>
 <a href="https://discord.gg/optimism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
 
@@ -58,9 +58,9 @@
 
 | Project | Description | Stack | Links |
 |----------|--------------|-------|--------|
-| **DePIN Tracker** | IoT GPS integrated with blockchain for vehicle security | TON, DePIN, Python | 🔗 [Repo](https://github.com/FujiAr/depin-tracker) |
-| **Superchain Hub ID** | Coordination space for Optimism ecosystem in Indonesia | Next.js, Lisk SDK | 🔗 [Repo](https://github.com/FujiAr/superchain-hub) |
-| **zkProof Explorer** | Visual interface for zk-SNARK and privacy proofs | React, Rust, Circom | 🔗 [Repo](https://github.com/FujiAr/zkproof-explorer) |
+| **DePIN Tracker** | IoT GPS integrated with blockchain for vehicle security | TON, DePIN, Python | 🔗 [Repo](https://github.com/fujianggara10/depin-tracker) |
+| **Superchain Hub ID** | Coordination space for Optimism ecosystem in Indonesia | Next.js, Lisk SDK | 🔗 [Repo](https://github.com/fujianggara10/superchain-hub) |
+| **zkProof Explorer** | Visual interface for zk-SNARK and privacy proofs | React, Rust, Circom | 🔗 [Repo](https://github.com/fujianggara10/zkproof-explorer) |
 
 ---
 
