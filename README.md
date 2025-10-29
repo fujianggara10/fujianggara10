@@ -14,7 +14,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FujiAr.FujiAr)
 [![Github](https://img.shields.io/github/followers/FujiAr?label=Follow&style=social)](https://github.com/fujianggara10x)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jhnsmyth0_?style=social)](https://x.com/Fujiar_10)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fujiar_10_?style=social)](https://x.com/Fujiar_10)
 ![GitHub stars](https://img.shields.io/github/stars/FujiAr?style=social)
 
 ---
@@ -44,12 +44,12 @@
 <a href="https://www.javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://nextjs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://soliditylang.org/" target="_blank"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=029" width="40" height="40"/></a>
+<a href="https://soliditylang.org/" target="_blank"><img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg?v=029" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
 <a href="https://tailwindcss.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="https://vercel.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/></a>
-<a href="https://ton.org" target="_blank"><img src="https://cryptologos.cc/logos/toncoin-ton-logo.svg?v=029" width="40" height="40"/></a>
+<a href="https://ton.org" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrViWg0D72Yqmv2P4r2vO7arNp_IoIofGKyw&s?v=029" width="40" height="40"/></a>
 </p>
 
 ---
