@@ -3,7 +3,6 @@
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F53D3D&width=500&lines=Building+the+future+of+Web3+⚡;ZK,+DePIN,+and+Superchain+enthusiast+💡;Empowering+Community+Builders+Across+Southeast+Asia+🌏"></a>
 </p>
 
 <img align="right" alt="coding" width="300" src="https://github.com/FujiAr/homepage/blob/main/giphy-downsized-large.gif">
