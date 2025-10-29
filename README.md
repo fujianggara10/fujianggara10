@@ -1,5 +1,3 @@
-![banner](https://github.com/FujiAr/homepage/blob/main/1674547234690.jpg)
-
 <h1 align="center">Supp Y'all 👋 I'm Fuji Anggara</h1>
 <h3 align="center">Founder Superchain Indonesia | Web3 Developer | Optimism Contributor | Lisk Ambassador </h3>
 
@@ -16,7 +14,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FujiAr.FujiAr)
 [![Github](https://img.shields.io/github/followers/FujiAr?label=Follow&style=social)](https://github.com/fujianggara10x)
-[![Twitter Follow](https://x.com/Fujiar_10)](https://x.com/Fujiar_10)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jhnsmyth0_?style=social)](https://x.com/Fujiar_10)
 ![GitHub stars](https://img.shields.io/github/stars/FujiAr?style=social)
 
 ---
