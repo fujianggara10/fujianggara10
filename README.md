@@ -1,11 +1,11 @@
 ![banner](https://github.com/FujiAr/homepage/blob/main/1674547234690.jpg)
 
-<h1 align="center">gm! 👋 I'm Fuji Anggara</h1>
-<h3 align="center">Web3 Developer | Optimism Code of Conduct Council | Lisk Ambassador 🌐</h3>
+<h1 align="center">Supp Y'all 👋 I'm Fuji Anggara</h1>
+<h3 align="center">Founder Superchain Indonesia | Web3 Developer | Optimism Contributor | Lisk Ambassador </h3>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F53D3D&width=500&lines=Building+the+future+of+Web3+⚡;ZK,+DePIN,+and+Superchain+enthusiast+💡;Empowering+Builders+Across+Southeast+Asia+🌏"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F53D3D&width=500&lines=Building+the+future+of+Web3+⚡;ZK,+DePIN,+and+Superchain+enthusiast+💡;Empowering+Community+Builders+Across+Southeast+Asia+🌏"></a>
 </p>
 
 <img align="right" alt="coding" width="300" src="https://github.com/FujiAr/homepage/blob/main/giphy-downsized-large.gif">
@@ -15,18 +15,18 @@
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=FujiAr.FujiAr)
-[![Github](https://img.shields.io/github/followers/FujiAr?label=Follow&style=social)](https://github.com/FujiAr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/fujiar_?style=social)](https://twitter.com/intent/follow?screen_name=fujiar_)
+[![Github](https://img.shields.io/github/followers/FujiAr?label=Follow&style=social)](https://github.com/fujianggara10x)
+[![Twitter Follow](https://x.com/Fujiar_10)](https://x.com/Fujiar_10)
 ![GitHub stars](https://img.shields.io/github/stars/FujiAr?style=social)
 
 ---
 
-## 👨🏻‍💻 About Me  
-- 🧱 Building at the intersection of **ZK, DePIN, and Superchain**  
-- 🛠️ Contributing to the **Optimism Collective** and **Lisk Ecosystem**  
-- 🌏 Ambassador & Web3 Community Builder in Indonesia  
-- 💡 Passionate about open-source, transparency, and impact-driven innovation  
-- 📝 I write about blockchain tech and community insights on [Mirror.xyz](https://mirror.xyz/)  
+## About Me  
+- Building at the intersection of **ZK, DePIN, and Superchain**  
+- Contributing to the **Optimism Collective** and **Lisk Ecosystem**  
+- Ambassador & Web3 Community Builder in Indonesia  
+- Passionate about open-source, transparency, and impact-driven innovation  
+- I write about blockchain tech and community insights on [Mirror.xyz](https://mirror.xyz/0xCb5feBBa6bbeb052D7249Aa315F3C0c1feD94910)  
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🧰 Languages & Tools  
+## Languages & Tools  
 <p align="left"> 
 <a href="https://www.javascript.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Links |
 |----------|--------------|-------|--------|
@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FujiAr&show_icons=true&theme=radical&hide_border=true" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujiAr&layout=compact&theme=radical&hide_border=true" height="150px"/>
@@ -75,22 +75,15 @@
 ---
 
 ## 🌎 Ecosystem Involvement  
-- 🧭 **Optimism Code of Conduct Council Member (Season 6)**  
-- 💎 **Lisk Indonesia Ambassador**  
-- ⚙️ **Contributor to zk and DePIN projects**  
-- 🧠 **Community Education & Builder Mentorship in Southeast Asia**
-
----
-
-## ☕ Support My Work
-<p align="center">
-  <a href="https://ko-fi.com/fujiar" target="_blank"><img height="36" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy me a coffee"></a>
-</p>
+- **Optimism Badgeholders, Citizens, Ambassadors, Community Lead Indonesia, Code of Conduct Council Member (Season 6)**
+- **Lisk Indonesia Ambassador**  
+- **Contributor to zk and DePIN projects**  
+- **Community Education & Builder Mentorship in Southeast Asia**
 
 ---
 
 <h4 align="center">  
-╚═════ &nbsp;𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐎𝐧𝐜𝐡𝐚𝐢𝐧 𝐅𝐮𝐭𝐮𝐫𝐞 🌐  
+╚═════ &nbsp;𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐎𝐧𝐜𝐡𝐚𝐢𝐧 𝐅𝐮𝐭𝐮𝐫𝐞  
 <h4>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
